@@ -91586,7 +91586,7 @@ bB(){var s=this
 return B.B.cn(A.U(["id",s.a,"name",s.b,"email",s.c,"roles",s.d],t.N,t.z))}}
 A.PU.prototype={
 D(a){var s=null,r=A.b([A.pJ(s,new A.ahe(),t.Gw),A.pJ(s,new A.ahf(),t.Hy),A.pJ(s,new A.ahg(),t.lC),A.pJ(s,new A.ahh(),t.lG),A.pJ(s,new A.ahi(),t.h6),A.pJ(s,new A.ahj(),t.R5)],t.Ds),q=A.xn(s,A.aJ_(B.ag,s,s,B.PG),!0)
-return A.aXN(new A.CK(new A.vp(new A.fl().Bu(),new A.ahk(),s,t.yl),"Flutter Demo",q,!1,s),r)}}
+return A.aXN(new A.CK(new A.vp(new A.fl().Bu(),new A.ahk(),s,t.yl),"Physcad",q,!1,s),r)}}
 A.ahe.prototype={
 $1(a){return A.aWv()},
 $S:601}
